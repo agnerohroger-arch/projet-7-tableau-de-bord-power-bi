@@ -1,6 +1,8 @@
 
 # Projet 7 — Tableau de bord dynamique avec Power BI
+## Aperçu du tableau de bord
 
+![Dashboard exécutif Power BI](dashboard-executif.png)
 ## Présentation du projet
 
 Ce projet a été réalisé dans le cadre de mon parcours
